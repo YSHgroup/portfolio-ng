@@ -7,12 +7,12 @@
   "Header.cvName": "CV_Jose_Hernandez_Spanish.pdf",
 
   "Banner.Pretitle": "Hello! My name is",
-  "Banner.Description": "I have <span class='underline'>8 years of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular</span> and <span class='underline'>Laravel</span>, applying good practices and development standards.",
+  "Banner.Description": "I have <span class='underline'>over 6 years of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>React</span>, <span class='underline'>Vue</span>, <span class='underline'>Angular</span> and <span class='underline'>FastAPI</span>, applying good practices and development standards.",
   "Banner.ActionBtn": "Say Hi",
 
   "AboutMe.Title": "About Me",
   "AboutMe.Paragraphs": [
-    "In <span class='underline'>8 years of experience</span> I have covered many roles: <span class='underline'>Systems Analyst</span>, <span class='underline'>Backend Developer</span>, <span class='underline'>Frontend Developer</span>, and <span class='underline'>Technical Lead</span>. I love contributing my knowledge to create new things that help solve problems.",
+    "In <span class='underline'>over 6 years of experience</span> I have covered many roles: <span class='underline'>Systems Analyst</span>, <span class='underline'>Backend Developer</span>, <span class='underline'>Frontend Developer</span>, and <span class='underline'>Technical Lead</span>. I love contributing my knowledge to create new things that help solve problems.",
     "My capabilities also include implementing system improvements, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I am working on.",
     "I also program things for my personal use, whether for hobby or utility.",
     "Some of the technologies I have trained and worked with include (but are not limited to):"
@@ -23,7 +23,7 @@
     {
       "Tab": "Global",
       "Title": "Fullstack Developer",
-      "Date": "May 2023",
+      "Date": "May 2025",
       "Description": [
         "Leader in technical decision making",
         "Hiring technical talent for the company",
@@ -37,7 +37,7 @@
     {
       "Tab": "Proyex",
       "Title": "Fullstack Developer",
-      "Date": "December 2019 - May 2023",
+      "Date": "December 2023 - May 2025",
       "Description": [
         "Creation and maintenance of a monitoring platform with charts in WordPress.",
         "Functional programming in templates and plugins to add necessary monitoring features.",
@@ -49,7 +49,7 @@
     {
       "Tab": "Freelancer",
       "Title": "Freelancer",
-      "Date": "May 2016 - Present",
+      "Date": "May 2024 - Present",
       "Description": [
         "Continuous improvements implementation, working on frontend and backend.",
         "Creation of platforms with Angular, Laravel, WordPress programmed with functional, reactive, and object-oriented programming paradigms.",
@@ -60,7 +60,7 @@
     {
       "Tab": "Moebius",
       "Title": "Fullstack Developer",
-      "Date": "July 2017 - October 2018",
+      "Date": "July 2022 - October 203",
       "Description": [
         "Leading a team of 4 people in the development of a tourism data management platform made in Angular, Laravel, and MySQL.",
         "Implementation of CI/CD in Azure. Refactoring and optimizing application load times.",
@@ -72,7 +72,7 @@
     {
       "Tab": "TechLatam",
       "Title": "Frontend Developer",
-      "Date": "February 2016 - May 2017",
+      "Date": "February 2024 - May 2026",
       "Description": [
         "Creating WordPress templates with ACF, functional programming in JavaScript/jQuery, styles in SASS.",
         "Integrating design and load time improvements for templates.",
@@ -82,18 +82,10 @@
     {
       "Tab": "CANTV",
       "Title": "Systems Analyst",
-      "Date": "November 2015 - December 2016",
+      "Date": "November 2023 - December 2024",
       "Description": [
         "Programming new functionalities for an existing employee management platform made with Angular and ExpressJS.",
         "Refactoring old code. Ensuring compatibility of each dependency with each update, including regular Angular updates."
-      ]
-    },
-    {
-      "Tab": "IEP",
-      "Title": "English Teacher",
-      "Date": "January 2015 - July 2015",
-      "Description": [
-        "Teaching basic English to a student body of over 200 students."
       ]
     }
   ],
@@ -212,44 +204,44 @@
       "Title": "Hands Game",
       "Description": "Extended rock-paper-scissors game. A personal project developed in Angular where you play randomly against the machine. It features the use of services, interfaces, and components.",
       "imgs": ["assets/images/hands-game.png"],
-      "ghLink": "https://github.com/andresjosehr/hands-game",
-      "demoLink": "https://projects.andresjosehr.com/hands-game",
+      "ghLink": "https://github.com/yshgroup/hands-game",
+      "demoLink": "https://projects.davidchan.com/hands-game",
       "Technologies": ["Angular", "CSS GRID", "SASS", "Angular animations"]
     },
     {
       "Title": "Countries Viewer",
       "Description": "Interface that consumes a countries API where you can view a list of countries, see details of each country, filter by name and region. It also has a dark mode to switch between dark and light themes.",
       "imgs": ["assets/images/countries-viewer.png"],
-      "ghLink": "https://github.com/andresjosehr/countries-viewer",
-      "demoLink": "https://projects.andresjosehr.com/countries-viewer",
+      "ghLink": "https://github.com/yshgroup/countries-viewer",
+      "demoLink": "https://projects.davidchan.com/countries-viewer",
       "Technologies": ["Angular", "RxJS", "SASS", "API"]
     },
     {
       "Title": "Four Card Feature Section",
       "Description": "A single page with a minimalist design listing 4 features in 4 cards. Entry animations are used with Angular animations.",
-      "ghLink": "https://github.com/andresjosehr/four-card-feature-section",
-      "demoLink": "https://projects.andresjosehr.com/four-card-feature-section",
+      "ghLink": "https://github.com/yshgroup/four-card-feature-section",
+      "demoLink": "https://projects.davidchan.com/four-card-feature-section",
       "Technologies": ["Angular", "SASS", "CSS GRID"]
     },
     {
       "Title": "Social Proof Section",
       "Description": "Personal project of a page designed from a design made in Figma. Angular was used for development along with SASS and CSS GRID.",
-      "ghLink": "https://github.com/andresjosehr/social-proof-section",
-      "demoLink": "https://projects.andresjosehr.com/social-proof-section",
+      "ghLink": "https://github.com/yshgroup/social-proof-section",
+      "demoLink": "https://projects.davidchan.com/social-proof-section",
       "Technologies": ["Angular", "CSS GRID", "GIT"]
     },
     {
       "Title": "FAQ Accordion Card",
       "Description": "Frequently asked questions accordion with logic and animations made in Angular.",
-      "ghLink": "https://github.com/andresjosehr/faq-accordion",
-      "demoLink": "https://projects.andresjosehr.com/faq-accordion",
+      "ghLink": "https://github.com/yshgroup/faq-accordion",
+      "demoLink": "https://projects.davidchan.com/faq-accordion",
       "Technologies": ["Angular", "CSS GRID", "Angular animations"]
     },
     {
       "Title": "Profile Card",
       "Description": "Simple design of a page featuring a profile card with basic information of a person.",
-      "ghLink": "https://github.com/andresjosehr/profile-card-component",
-      "demoLink": "https://projects.andresjosehr.com/profile-card-component",
+      "ghLink": "https://github.com/yshgroup/profile-card-component",
+      "demoLink": "https://projects.davidchan.com/profile-card-component",
       "Technologies": ["Angular", "SASS", "GIT"]
     }
   ],
